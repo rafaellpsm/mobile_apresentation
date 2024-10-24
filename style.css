@@ -105,3 +105,19 @@ nav ul li {
     justify-content: center;
     align-items: center;
 }
+
+.text_pink {
+    color: rgb(230, 33, 66);
+}
+
+.text_blue {
+    color: royalblue;
+}
+
+.ulli {
+    list-style-type: none
+}
+
+.ulli li {
+    margin-left: -0.42em;
+}
